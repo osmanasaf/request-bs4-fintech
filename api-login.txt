@@ -1,0 +1,42 @@
+Request URL: https://www.itemsatis.com/api/Login
+Request Method: POST
+Status Code: 200 
+Remote Address: 172.67.68.104:443
+Referrer Policy: no-referrer-when-downgrade
+access-control-allow-credentials: true
+access-control-allow-methods: GET, POST, OPTIONS
+cache-control: no-store, no-cache, must-revalidate
+cf-cache-status: DYNAMIC
+cf-ray: 618c2b969965fca1-VIE
+cf-request-id: 07eb7992250000fca1eea91000000001
+content-encoding: br
+content-type: text/html; charset=UTF-8
+date: Thu, 28 Jan 2021 16:43:04 GMT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+nel: {"report_to":"cf-nel","max_age":604800}
+pragma: no-cache
+report-to: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=fOhyIAiOm8X%2FfD3%2BOjQVzCre%2FDCUnJu2nhawSEYZIvyCTBiFbWDi6mFBTqaC424S6TQtqIm0duOYC4YXIJJT4udJaYP5DPDXWhe1l4bHbFglfw%3D%3D"}],"max_age":604800}
+server: cloudflare
+vary: Accept-Encoding
+x-turbo-charged-by: LiteSpeed
+:authority: www.itemsatis.com
+:method: POST
+:path: /api/Login
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+content-length: 84
+content-type: application/x-www-form-urlencoded; charset=UTF-8
+cookie: __cfduid=df8e499c60f27a0f1aca6e8b939798a971610297491; __tawkuuid=e::itemsatis.com::vhoLNeio4k3Pk0fhJ8iw8nJRFzdfGaASF0sQfEwzqv4RdS3o2Pb/YAyO2Y+1wb6X::2; PHPSESSID=barcno6cci5anffmn80nkl2jgh; PopupReklam=1; TawkConnectionTime=0
+origin: https://www.itemsatis.com
+referer: https://www.itemsatis.com/index.php
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344
+x-requested-with: XMLHttpRequest
+UserName: kazimhas96
+Password: hXbtvxUNVOs
+csrf_token: a0f74cf8196aa4b0af7d174b4e575c9a
