@@ -37,7 +37,7 @@ with requests.Session() as session:
 
     offers=soupFav.find_all('div',attrs={'class':'col-md-4 col-sm-12 col-xs-12 AdvertBox-1'})
 
-
+    
     forCounter=0
     for offer in offers:
         forCounter=forCounter+1
@@ -62,5 +62,5 @@ with requests.Session() as session:
         with open("data.json","a") as jsonFile:
             json.dump(dataDict,jsonFile,indent=2)
             jsonFile.write ('\n')
-   
+            
     
